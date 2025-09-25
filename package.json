@@ -7,7 +7,7 @@
   "repository": "mafintosh/dns-packet",
   "homepage": "https://github.com/mafintosh/dns-packet",
   "engines": {
-    "node": ">=6"
+    "node": ">=18"
   },
   "scripts": {
     "clean": "rm -rf coverage .nyc_output/",
